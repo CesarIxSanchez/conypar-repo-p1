@@ -1,4 +1,4 @@
-# Reporte
+# Reporte. César Antonio Ix Sánchez.
 ## Introducción al problema de la condición de carrera
 En la programación concurrente, un problema recurrente y crítico es la condición de carrera. Esta ocurre cuando dos o más hilos acceden y manipulan un recurso compartido al mismo tiempo, y el resultado final depende del orden no determinista 
 en que se ejecutan las operaciones. La condición de carrera no es siempre evidente, pues puede aparecer únicamente bajo ciertas intercalaciones de instrucciones, lo que hace que se manifieste de forma intermitente y difícil de depurar.
